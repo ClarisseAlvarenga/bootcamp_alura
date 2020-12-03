@@ -1,0 +1,55 @@
+COQUELUCHE - Casos confirmados Notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por Região/UF de notificação e Ano 1º Sintoma(s)
+Faixa Etária: <1 Ano
+Período:2007-2019
+"Região/UF de notificação";"<1975";"1988";"1991";"1999";"2000";"2003";"2004";"2006";"2007";"2008";"2009";"2010";"2011";"2012";"2013";"2014";"2015";"2016";"2017";"2018";"2019";"Total"
+"Região Norte";-;-;-;1;-;-;-;-;65;104;78;36;69;184;194;268;143;63;61;53;27;1346
+".. Rondônia";-;-;-;-;-;-;-;-;1;2;8;15;21;6;25;46;15;6;4;3;3;155
+".. Acre";-;-;-;-;-;-;-;-;-;2;9;-;10;4;3;26;4;-;3;2;2;65
+".. Amazonas";-;-;-;-;-;-;-;-;38;44;16;4;18;128;82;34;67;33;22;12;10;508
+".. Roraima";-;-;-;-;-;-;-;-;2;2;-;1;5;5;17;5;3;4;14;5;2;65
+".. Pará";-;-;-;1;-;-;-;-;15;30;29;15;11;23;29;64;18;3;2;16;3;259
+".. Amapá";-;-;-;-;-;-;-;-;7;23;16;1;2;11;21;36;4;5;7;1;-;134
+".. Tocantins";-;-;-;-;-;-;-;-;2;1;-;-;2;7;17;57;32;12;9;14;7;160
+"Região Nordeste";-;-;1;-;-;-;-;6;100;158;117;80;264;487;562;1633;634;237;271;382;387;5319
+".. Maranhão";-;-;-;-;-;-;-;1;8;8;3;5;23;17;28;102;59;8;12;16;17;307
+".. Piauí";-;-;-;-;-;-;-;-;-;-;1;2;-;8;58;171;100;16;24;12;22;414
+".. Ceará";-;-;-;-;-;-;-;-;3;2;10;9;16;33;26;130;50;14;16;11;28;348
+".. Rio Grande do Norte";-;-;-;-;-;-;-;1;12;10;20;12;48;89;67;66;52;12;7;15;16;427
+".. Paraíba";-;-;-;-;-;-;-;-;1;3;1;2;4;10;23;30;10;-;3;2;1;90
+".. Pernambuco";-;-;1;-;-;-;-;3;66;102;31;26;69;225;119;686;255;154;184;246;260;2427
+".. Alagoas";-;-;-;-;-;-;-;-;1;14;24;8;16;23;99;126;24;11;7;24;12;389
+".. Sergipe";-;-;-;-;-;-;-;-;2;-;3;-;5;3;8;13;3;-;2;2;-;41
+".. Bahia";-;-;-;-;-;-;-;1;7;19;24;16;83;79;134;309;81;22;16;54;31;876
+"Região Sudeste";2;1;-;-;-;2;1;5;238;363;200;204;960;1562;1797;1787;620;311;362;405;172;8992
+".. Minas Gerais";2;-;-;-;-;1;-;2;28;58;54;19;58;206;264;211;133;57;89;106;76;1364
+".. Espírito Santo";-;1;-;-;-;1;-;-;52;46;23;11;54;410;362;145;77;44;41;40;9;1316
+".. Rio de Janeiro";-;-;-;-;-;-;-;1;37;62;19;25;147;188;104;84;73;55;25;22;15;857
+".. São Paulo";-;-;-;-;-;-;1;2;121;197;104;149;701;758;1067;1347;337;155;207;237;72;5455
+"Região Sul";-;-;-;-;-;-;-;10;181;263;160;116;294;952;723;852;318;171;298;209;89;4636
+".. Paraná";-;-;-;-;-;-;-;2;39;61;38;14;124;258;308;565;163;79;81;95;38;1865
+".. Santa Catarina";-;-;-;-;-;-;-;4;33;30;18;15;41;189;119;120;65;25;49;25;17;750
+".. Rio Grande do Sul";-;-;-;-;-;-;-;4;109;172;104;87;129;505;296;167;90;67;168;89;34;2021
+"Região Centro-Oeste";-;-;-;-;1;-;-;-;42;79;80;36;58;195;334;493;170;46;49;87;57;1727
+".. Mato Grosso do Sul";-;-;-;-;-;-;-;-;21;23;4;11;30;68;77;106;24;5;6;16;3;394
+".. Mato Grosso";-;-;-;-;1;-;-;-;4;10;14;1;-;17;58;71;36;11;3;16;7;249
+".. Goiás";-;-;-;-;-;-;-;-;10;10;20;6;2;31;53;80;20;4;11;8;8;263
+".. Distrito Federal";-;-;-;-;-;-;-;-;7;36;42;18;26;79;146;236;90;26;29;47;39;821
+"Total";2;1;1;1;1;2;1;21;626;967;635;472;1645;3380;3610;5033;1885;828;1041;1136;732;22020
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos casos não residentes no Brasil.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável
+     de interesse, na Coluna Ano dos 1ºs sintomas; em Períodos Disponíveis assinale o ano inicial
+     da série e todos os posteriores até o ano atual (p/ incluir casos notificados com atraso) e
+     em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: nº de casos com início de
+     sintomas 2007: selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos
+     disponíveis 2007 até o ano atual e em Seleções assinale Ano de 1ºs sintomas 2007).
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2007 a 2017 atualizados em 01/07/2019.
+ Dados de 2018 atualizados em 28/01/2020, dados sujeitos à revisão.
+ Dados de 2019 atualizados em 23/01/2020, dados sujeitos à revisão.
+ *Dados disponibilizados no TABNET em fevereiro/2020.
+ 

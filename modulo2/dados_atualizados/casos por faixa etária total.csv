@@ -1,0 +1,45 @@
+COQUELUCHE - Casos confirmados Notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por Ano 1º Sintoma(s) e Faixa Etária
+Período:2007-2019
+"Ano 1º Sintoma(s)";"Em branco/IGN";"<1 Ano";"1-4";"5-9";"10-14";"15-19";"20-39";"40-59";"60-64";"65-69";"70-79";"80 e +";"Total"
+"Em Branco/ign";-;-;-;1;-;-;-;-;-;-;-;-;1
+"<1975";-;2;-;-;-;-;-;-;-;-;-;-;2
+"1988";-;1;-;-;-;-;-;-;-;-;-;-;1
+"1991";-;1;-;-;-;-;-;-;-;-;-;-;1
+"1999";-;1;-;-;-;-;-;-;-;-;-;-;1
+"2000";-;1;-;-;-;-;-;-;-;-;-;-;1
+"2002";-;-;-;-;-;-;-;1;-;-;-;-;1
+"2003";-;2;-;-;-;-;-;-;-;-;-;-;2
+"2004";-;1;1;-;-;-;-;-;-;-;-;-;2
+"2006";-;21;4;-;1;2;2;-;-;-;-;-;30
+"2007";-;626;94;46;39;15;23;13;-;1;-;-;857
+"2008";1;967;181;80;55;30;62;20;2;3;2;-;1403
+"2009";-;635;152;77;43;13;36;10;-;-;-;-;966
+"2010";1;472;54;26;14;2;19;4;-;-;-;-;592
+"2011";4;1645;207;80;69;42;114;44;5;3;1;-;2214
+"2012";9;3380;917;394;236;92;276;86;4;5;-;1;5400
+"2013";17;3610;1227;591;248;94;424;142;12;9;4;2;6380
+"2014";10;5033;1212;842;419;132;602;216;17;7;4;4;8498
+"2015";-;1885;430;279;137;47;186;70;6;4;7;-;3051
+"2016";-;828;192;105;42;20;84;28;2;5;1;2;1309
+"2017";-;1041;299;198;125;35;101;54;5;3;6;-;1867
+"2018";-;1136;379;182;176;40;141;86;8;8;5;3;2164
+"2019";-;732;284;87;107;23;86;45;5;2;-;3;1374
+"Total";42;22020;5633;2988;1711;587;2156;819;66;50;30;15;36117
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos casos não residentes no Brasil.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável
+     de interesse, na Coluna Ano dos 1ºs sintomas; em Períodos Disponíveis assinale o ano inicial
+     da série e todos os posteriores até o ano atual (p/ incluir casos notificados com atraso) e
+     em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: nº de casos com início de
+     sintomas 2007: selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos
+     disponíveis 2007 até o ano atual e em Seleções assinale Ano de 1ºs sintomas 2007).
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2007 a 2017 atualizados em 01/07/2019.
+ Dados de 2018 atualizados em 28/01/2020, dados sujeitos à revisão.
+ Dados de 2019 atualizados em 23/01/2020, dados sujeitos à revisão.
+ *Dados disponibilizados no TABNET em fevereiro/2020.
+ 
