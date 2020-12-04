@@ -1,0 +1,34 @@
+COQUELUCHE - Casos confirmados Notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por Faixa Etária e Gestante
+Período:2007-2019
+"Faixa Etária";"Ign/Branco";"1º Trimestre";"2º Trimestre";"3º Trimestre";"Idade gestacional Ignorada";"Não";"Não se Aplica";"Total"
+"Em branco/IGN";-;-;-;-;-;-;42;42
+"<1 Ano";4;-;-;-;-;2;22014;22020
+"1-4";2;-;-;-;-;-;5631;5633
+"5-9";-;-;-;-;-;-;2988;2988
+"10-14";43;1;3;4;4;433;1223;1711
+"15-19";34;1;10;5;-;268;269;587
+"20-39";154;11;30;35;3;1128;795;2156
+"40-59";57;1;6;1;-;418;336;819
+"60-64";4;1;-;-;-;38;23;66
+"65-69";1;-;-;-;-;11;38;50
+"70-79";-;-;-;-;-;11;19;30
+"80 e +";-;-;-;-;-;6;9;15
+"Total";299;15;49;45;7;2315;33387;36117
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos casos não residentes no Brasil.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável
+     de interesse, na Coluna Ano dos 1ºs sintomas; em Períodos Disponíveis assinale o ano inicial
+     da série e todos os posteriores até o ano atual (p/ incluir casos notificados com atraso) e
+     em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: nº de casos com início de
+     sintomas 2007: selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos
+     disponíveis 2007 até o ano atual e em Seleções assinale Ano de 1ºs sintomas 2007).
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2007 a 2017 atualizados em 01/07/2019.
+ Dados de 2018 atualizados em 28/01/2020, dados sujeitos à revisão.
+ Dados de 2019 atualizados em 23/01/2020, dados sujeitos à revisão.
+ *Dados disponibilizados no TABNET em fevereiro/2020.
+ 

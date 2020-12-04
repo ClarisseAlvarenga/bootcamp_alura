@@ -1,0 +1,35 @@
+COQUELUCHE - Casos confirmados Notificados no Sistema de Informação de Agravos de Notificação - Brasil
+Casos confirmados por Faixa Etária e Sexo
+Sexo: Masculino, Feminino
+Período:2007-2019
+"Faixa Etária";"Masculino";"Feminino";"Total"
+"Em branco/IGN";16;26;42
+"<1 Ano";10427;11580;22007
+"1-4";2438;3193;5631
+"5-9";1312;1676;2988
+"10-14";755;955;1710
+"15-19";235;352;587
+"20-39";615;1541;2156
+"40-59";262;556;818
+"60-64";11;55;66
+"65-69";23;27;50
+"70-79";12;18;30
+"80 e +";6;9;15
+"Total";16112;19988;36100
+ Fonte: Ministério da Saúde/SVS - Sistema de Informação de Agravos de Notificação - Sinan Net
+ Notas:
+ 
+ Excluídos casos não residentes no Brasil.
+ Períodos Disponíveis ou período - Correspondem aos anos de notificação dos casos.
+ Para tabular dados epidemiológicos de um determinado ano selecione na linha a variável
+     de interesse, na Coluna Ano dos 1ºs sintomas; em Períodos Disponíveis assinale o ano inicial
+     da série e todos os posteriores até o ano atual (p/ incluir casos notificados com atraso) e
+     em Seleções Disponíveis assinale os anos dos 1ºs sintomas (ex: nº de casos com início de
+     sintomas 2007: selecione na linha UF de residência, na Coluna Ano de 1ºs sintomas, em Períodos
+     disponíveis 2007 até o ano atual e em Seleções assinale Ano de 1ºs sintomas 2007).
+ Para cálculo da incidência utilize locais de residência.
+ Dados de 2007 a 2017 atualizados em 01/07/2019.
+ Dados de 2018 atualizados em 28/01/2020, dados sujeitos à revisão.
+ Dados de 2019 atualizados em 23/01/2020, dados sujeitos à revisão.
+ *Dados disponibilizados no TABNET em fevereiro/2020.
+ 
